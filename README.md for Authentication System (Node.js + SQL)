@@ -1,0 +1,17 @@
+# 🔐 Authentication System (Node.js + SQL)
+
+A secure authentication system built with **Node.js**, **Express**, and **SQL Database**.  
+This project provides **User Registration, Login, Session Management, Password Hashing, and Logout** features.
+
+---
+
+## 🚀 Features
+
+- ✅ User Registration
+- ✅ Secure Login System
+- ✅ Password Hashing (bcrypt)
+- ✅ Express Sessions for login tracking
+- ✅ SQL Database storage
+- ✅ Input Validation
+- ✅ Protected Dashboard page
+- ✅ Logout Function
